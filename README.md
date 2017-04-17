@@ -1,5 +1,5 @@
-# Example repoitory to build a tutorial how to use git from OpenBSD/*NIX. 
+# Example repository to build a tutorial how to use git from OpenBSD/*NIX. 
 # 
-# The example is a 20 year old Fortran program based.        
+# As example I use a more than 20 year old fortran program.
 #
  
