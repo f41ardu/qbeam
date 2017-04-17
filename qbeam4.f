@@ -23,7 +23,7 @@ c      this special version of f77 compiler
 c      date 1/02/92 f41ardu 
 c      it run with data from steve at 3/02/93
 c
-c      apply a chage for git test 
+c      apply a change for git test 
 c       
       implicit none                                                 
                                                                                 
